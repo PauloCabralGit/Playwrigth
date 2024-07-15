@@ -9,7 +9,7 @@ class CommonPageLogin {
     constructor() {
         this.Objects = {
      
-        "url" : "https://front.serverest.dev/login"
+        "url" : "https://front.serverest.dev/login",
         
        }
     }
