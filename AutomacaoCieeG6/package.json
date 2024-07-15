@@ -1,0 +1,22 @@
+{
+  "name": "automacaocieeg6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10",
+    "playwright-bdd": "^6.6.0"
+  },
+  "dependencies": {
+    "playwright": "^1.45.1",
+    "playwright-video": "^2.4.0"
+  }
+}

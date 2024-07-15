@@ -1,0 +1,19 @@
+{
+    "default":{
+  
+        "paths":[
+            "tests/Web/Feature",
+            "tests/API/Feature",
+            "tests/Mobile/Feature" 
+                         
+    ],
+    "require":[
+
+        "tests/Web/Steps_definitions/*.js",
+        "tests/API/Steps_definitions/*.js",
+        "tests/Mobile/Steps_definitions/*.js"
+       
+    ]              
+}
+
+}
